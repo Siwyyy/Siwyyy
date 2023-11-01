@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siwyyy
-- 👀 I’m interested in programming games
+- 👀 I’m interested in Windows applications and games
 - 🌱 I’m currently learning Vulkan API
 
 <!---
